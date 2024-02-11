@@ -14,5 +14,9 @@
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
+
+	<form action="study.do" method="post">
+        <input type="text" name="cPage"><input type="submit">
+    </form>
 </body>
 </html>
