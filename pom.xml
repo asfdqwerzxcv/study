@@ -125,6 +125,14 @@
 			<scope>provided</scope>
 		</dependency>     
 		
+		<!-- https://mvnrepository.com/artifact/org.jsoup/jsoup -->
+		<dependency>
+		    <groupId>org.jsoup</groupId>
+		    <artifactId>jsoup</artifactId>
+		    <version>1.13.1</version>
+		</dependency>
+		
+		
 		<!-- 4. 파일 업로드를 위한 라이브러리 -->
 		<dependency>
 			<groupId>commons-fileupload</groupId>
